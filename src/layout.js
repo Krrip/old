@@ -20,6 +20,7 @@ export default class index extends React.Component {
                         <Menu.Item key="2">nav 2</Menu.Item>
                         <Menu.Item key="3">nav 3</Menu.Item>
                         <Menu.Item key="4">nav 4</Menu.Item>
+                        <Menu.Item key="5">nav 5</Menu.Item>
                     </Menu>
                 </Header>
                 <Content style={{ padding: '0 50px' }}>
