@@ -41,8 +41,8 @@ export default class index extends React.Component {
   </Card>
   <Card style={{ width: 300}}>
     <p>Card content</p>
-    <p>黄金</p>
-    <p>dsfl</p>
+    <p>Card content</p>
+    <p>Card content</p>
   </Card>
   
                     
