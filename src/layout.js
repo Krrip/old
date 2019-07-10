@@ -47,9 +47,12 @@ export default class index extends React.Component {
   
                     
                     </div>
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> parent of 1973762... Update layout.js
                 </Content>
                 <Footer style={{ textAlign: 'center' }}>Ant Design ©2018 Created by Ant UED</Footer>
             </Layout>
