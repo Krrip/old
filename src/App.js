@@ -1,12 +1,25 @@
-import React from 'react';
+import React,{Component} from 'react';
 
-import './App.css';
-import Layout from './layout';
-function App() {
-  return (
-    <Layout />
-    
-  );
+// import './asset/css/App.css';
+//import Layout from './layout';
+import Home from './component/Home';
+class App extends Component{
+render(){
+return(
+<div>
+
+  <h6>holle</h6>
+
+<Home />
+</div>
+
+
+);
+
+
+}
+
+
 }
 
 
