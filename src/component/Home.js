@@ -1,5 +1,5 @@
 import React,{Component} from 'react';
-
+import '../asset/css/index.css';
 class Home extends Component{
 constructor(props){
 super(props);
@@ -22,6 +22,8 @@ return(
 <div>{this.state.title}</div>
 <div title="1111">woshidiv</div>
 <div title={this.state.title}>woshidiv</div>
+<div>woshi daiwi</div>
+<div className='red'>woshired</div>
 </div>
 
 );
